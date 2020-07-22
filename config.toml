@@ -60,10 +60,22 @@ customJs = ["js/blog.js"]
 [menu]
 
   [[menu.main]]
+  name = "Acerca de"
+  identifier = "about"
+  weight = 10
+  url = "/about/"
+
+  [[menu.main]]
   name = "Entradas del Blog"
   weight = 100
   identifier = "posts"
   url = "/posts/"
+
+  [[menu.main]]
+  name = "Tutoriales"
+  identifier = "tutoriales"
+  weight = 110
+  url = "/tutorial/"
 
   [[menu.main]]
   name = "Categorías"
@@ -76,12 +88,6 @@ customJs = ["js/blog.js"]
   weight = 200
   identifier = "tags"
   url = "/tags/"
-
-  [[menu.main]]
-  name = "Acerca de"
-  identifier = "about"
-  weight = 10
-  url = "/about/"
 
 [markup]
 
