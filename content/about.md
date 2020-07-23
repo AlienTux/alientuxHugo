@@ -1,28 +1,26 @@
-+++
-title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us","about-hugo"]
-author = "Hugo Authors"
-+++
+---
+title: "Acerca de mí"
+date: 2020-07-22T19:03:12-06:00
+draft: false
+author: "AlienTux"
+description: "Un poco acerca de mí"
+tags: ["", ""]
+categories: ["", ""]
+---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Mi nombre es Kurt y soy un ingeniero mecatrónico y **maker** (\*•̀ᴗ•́\*)و ̑̑
 
-Hugo makes use of a variety of open source projects including:
+Vivo en Guatemala y me encanta la tecnología. Particularmente me gusta la impresión 3d, diseño 3d y prácticamente todo lo que tiene que ver con la robótica.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Actualmente doy clases en una Universidad de diferentes temas: desde qué es voltaje, corriente y resistencia hasta diseño digital y programación de microcontroladores.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Empecé este blog como parte de una idea que he tenido desde hace mucho tiempo: hacer contenido en línea en idioma español acerca de temas de ingeniería y ciencia, pero de una forma entretenida y utilizando la mayor cantidad de herramientas _Open Source_ posibles. Cuando diseño en 3d utilizo [Blender](https://www.blender.org), para realizar simulaciones de circuitos uso el [simulador](http://falstad.com/circuit/circuitjs.html) de [Paul Falstad](http://www.falstad.com/) e [Iain Sharp](http://lushprojects.com/) así como la plataforma [CircuitVerse](https://circuitverse.org/). Me encanta la electrónica y particularmente los _boards_ hechos por [Adafruit](https://www.adafruit.com/).
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Tengo un [canal de YouTube](https://www.youtube.com/c/KurtKellner/) donde he subido algunos videos para mis estudiantes y estoy empezando a trabajar en más contenido para todo mundo. También hago sesiones en vivo a través de [Twitch](https://www.twitch.tv/alientux) donde junto con la audiencia desarrollamos algunos proyectos mientras jugamos con [StreamAvatars](https://www.streamavatars.com/) Ｏ(≧▽≦)Ｏ. Mis proyectos van a vivir en [Github](https://github.com/AlienTux/) de forma abierta para seguir apoyando la cultura **maker**.
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Por último quiero pedirte un favor: si con mi contenido has aprendido algo nuevo te pido que lo compartas con la gente que conoces. Eso no sólo es de gran apoyo para mí sino que también estarás ayudando a alguien más a aprender algo nuevo. Y si quieres apoyarme más aún puedes pasar a mi página de [Patreon](https://www.patreon.com/AlienTux) ٩(^ᴗ^)۶
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Bienvenido!
 
-
-
+Kurt
+aka AlienTux
