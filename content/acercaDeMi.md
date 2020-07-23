@@ -22,5 +22,5 @@ Por último quiero pedirte un favor: si con mi contenido has aprendido algo nuev
 
 Bienvenido!
 
-Kurt
+Kurt  
 aka AlienTux

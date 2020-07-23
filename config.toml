@@ -60,13 +60,13 @@ customJs = ["js/blog.js"]
 [menu]
 
   [[menu.main]]
-  name = "Acerca de"
-  identifier = "about"
+  name = "Acerca de mí"
+  identifier = "acercaDeMi"
   weight = 10
-  url = "/about/"
+  url = "/acercaDeMi/"
 
   [[menu.main]]
-  name = "Entradas del Blog"
+  name = "Blog"
   weight = 100
   identifier = "posts"
   url = "/posts/"
