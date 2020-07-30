@@ -7,6 +7,7 @@ summarylength = 10
 enableEmoji = true
 paginate = 5
 theme = "soho"
+googleAnalytics = "UA-173499380-1"
 
 [params]
 title = "AlienTux"
